@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/duolaimall.iml" filepath="$PROJECT_DIR$/.idea/duolaimall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-common/duolaimall-common.iml" filepath="$PROJECT_DIR$/duolaimall-common/duolaimall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-gateway/duolaimall-gateway.iml" filepath="$PROJECT_DIR$/duolaimall-gateway/duolaimall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-order/duolaimall-order.iml" filepath="$PROJECT_DIR$/duolaimall-order/duolaimall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-shopping/duolaimall-shopping.iml" filepath="$PROJECT_DIR$/duolaimall-shopping/duolaimall-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-user/duolaimall-user.iml" filepath="$PROJECT_DIR$/duolaimall-user/duolaimall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-order/order-api/order-api.iml" filepath="$PROJECT_DIR$/duolaimall-order/order-api/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-order/order-service/order-service.iml" filepath="$PROJECT_DIR$/duolaimall-order/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-shopping/shopping-api/shopping-api.iml" filepath="$PROJECT_DIR$/duolaimall-shopping/shopping-api/shopping-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-shopping/shopping-service/shopping-service.iml" filepath="$PROJECT_DIR$/duolaimall-shopping/shopping-service/shopping-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-user/user-api/user-api.iml" filepath="$PROJECT_DIR$/duolaimall-user/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duolaimall-user/user-service/user-service.iml" filepath="$PROJECT_DIR$/duolaimall-user/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
